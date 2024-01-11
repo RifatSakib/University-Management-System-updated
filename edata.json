@@ -1,0 +1,47 @@
+[
+    {
+        "name": "mridul",
+        "email": "mridul1@gmail.com",
+        "birthday": "1999-03-02",
+        "phonenumber": "01781666033",
+        "otp": "987637",
+        "presentAddress": "Lalmaita,5\/b",
+        "permanentAddress": "Shariotput"
+    },
+    {
+        "name": "mridul",
+        "email": "mridul1@gmail.com",
+        "birthday": "1999-03-02",
+        "phonenumber": "01781666033",
+        "otp": "987637",
+        "presentAddress": "Lalmaita,5\/b",
+        "permanentAddress": "Shariotput"
+    },
+    {
+        "name": "Max",
+        "email": "max111@gmail.com",
+        "birthday": "2021-10-05",
+        "phonenumber": "00121425105",
+        "otp": "546",
+        "presentAddress": "jlk",
+        "permanentAddress": "nok"
+    },
+    {
+        "name": "Max",
+        "email": "max111@gmail.com",
+        "birthday": "2021-10-05",
+        "phonenumber": "00121425105",
+        "otp": "546",
+        "presentAddress": "jlk",
+        "permanentAddress": "nok"
+    },
+    {
+        "name": "Max",
+        "email": "max111@gmail.com",
+        "birthday": "2021-10-05",
+        "phonenumber": "00121425105",
+        "otp": "546",
+        "presentAddress": "jlk",
+        "permanentAddress": "nok"
+    }
+]
